@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.my-div{
+    border: 3px solid rebeccapurple;
+    padding: 20px;
+    height: 20vh;
+    width: 460px;
+    border-top-right-radius: 50px 100px;
+    border-top-left-radius: 50px 100px;
+    border-bottom-left-radius: 50px 100px;
+    border-bottom-right-radius: 50px 100px;
+    margin: auto;
+}
+
+.red-div{
+    border: 4px solid red;
+    height: 20vh;
+    border-top-right-radius: 50px 50px;
+    border-top-left-radius: 100px 50px;
+    margin-top: 10px;
+}
+
+.heading{
+    background-color: rebeccapurple;
+    width: 40%;
+    margin-bottom: 10px;
+}
